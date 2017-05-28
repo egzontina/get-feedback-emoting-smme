@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "title": "OpenWhisk Emoting",
+  "title": "Get feedback - emoting (SSME)",
   "description": "",
   "longDescription": "The Delivery Pipeline automates the continuous deployment of OpenWhisk Emoting artifacts.",
   "type": "object",
