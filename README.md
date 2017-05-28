@@ -3,15 +3,15 @@
 This application is designed for getting feedback from the audience. It can be used in public presentations, or even in airport or retail shops to see if our customers are content  with the service. So, by simply asking a questions we can get feedback about their experience. 
  
 This application uses:
-*IBM Bluemix OpenWhisk to host the backend
-*Cloudant to persist the data
-*GitHub Pages to host the frontend
+* IBM Bluemix OpenWhisk to host the backend
+* Cloudant to persist the data
+* GitHub Pages to host the frontend
 
 Usage:
-*Create a new question
-*Retrieve the question to collect feedback
-*Record the answers
-*View the results 
+* Create a new question
+* Retrieve the question to collect feedback
+* Record the answers
+* View the results 
 
 
 ## Code Structure
