@@ -7,7 +7,8 @@ This application uses:
 * Cloudant to persist the data
 * GitHub Pages to host the frontend
 
-Usage:
+
+## Usage:
 * Create a new question
 * Retrieve the question to collect feedback
 * Record the answers
