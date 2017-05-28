@@ -130,3 +130,6 @@ a {
     display: inline-block;
   }
 }
+#default-layout{
+  background-color: rgb(243, 249, 254);
+}
