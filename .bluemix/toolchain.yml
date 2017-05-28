@@ -1,7 +1,7 @@
 version: '2'
 template:
   name: "Get feedback - emoting (SSME)"
-  description: "Deploy your own OpenWhisk Emoting app."
+  description: "Deploying our Get feedback - emoting  app (Services, Systems, Modeling and Execution - IBM Bluemix project)."
   required:
     - build
     - repo
