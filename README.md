@@ -25,5 +25,4 @@ This application uses:
 |[**question.read.js**](actions/question.read.js)| Returns the text of a question based on its ID. |
 |[**question.stats.js**](actions/question.stats.js)| Returns results about a given question. |
 |[**rating.create.js**](actions/rating.create.js)| Called when a user taps on one of the rating. |
-|[**options.js**](actions/options.js)| Implements the OPTIONS verb for the actions exposed through the OpenWhisk API Gateway. |
 |[**deploy.sh**](deploy.sh)|Helper script to install, uninstall, update the OpenWhisk actions used by the application.|
