@@ -7,8 +7,11 @@ This application uses:
 * Cloudant to persist the data
 * GitHub Pages to host the frontend
 
+
 ##Application Link 
+
 [https://egzontina.github.io/get-feedback-emoting-smme/](https://egzontina.github.io/get-feedback-emoting-smme/)
+
 
 ## Usage
 
