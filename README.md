@@ -8,7 +8,7 @@ This application uses:
 * GitHub Pages to host the frontend
 
 
-##Application Link 
+## Application Link 
 
 [https://egzontina.github.io/get-feedback-emoting-smme/](https://egzontina.github.io/get-feedback-emoting-smme/)
 
